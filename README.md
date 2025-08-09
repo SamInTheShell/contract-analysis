@@ -4,6 +4,8 @@ Not a lawyer (TM).
 This is just a Friday night vibe-coded project I slapped together.
 Check out the [screenshots](docs/screenshots) directory to see what it looks like in action.
 
+[Ollama](https://ollama.com) is a required service for this to work.
+
 ## The Docker Container
 A container with arm64 and amd64 support is maintained on GHCR.
 
