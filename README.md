@@ -1,8 +1,10 @@
 # Contract Analysis
 Not a lawyer (TM).
 
+![Demo Screenshot](docs/screenshots/demo0.png)
+
 This is just a Friday night vibe-coded project I slapped together.
-Check out the [screenshots](docs/screenshots) directory to see what it looks like in action.
+The [screenshots](docs/screenshots) directory has a couple more images showing off what it is.
 
 [Ollama](https://ollama.com) is a required service for this to work.
 
